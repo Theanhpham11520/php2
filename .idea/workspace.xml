@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d75da99-88e6-4738-b910-cf09dceba4a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1n05VcKeQkvJSydqIBZutYuqc93" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testmvc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php2\Resources\admin\Product" />
+      <recent name="C:\xampp\htdocs\php2\Resources\admin\Order" />
+      <recent name="C:\xampp\htdocs\php2\Resources\admin\Employee" />
+      <recent name="C:\xampp\htdocs\php2\Resources\admin\Category" />
+      <recent name="C:\xampp\htdocs\php2\storage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php2\Resources\main" />
+      <recent name="C:\xampp\htdocs\php2\Resources\user\customer" />
+      <recent name="C:\xampp\htdocs\php2\Resources\admin\Slider" />
+      <recent name="C:\xampp\htdocs\php2\Publics\user\image" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d75da99-88e6-4738-b910-cf09dceba4a5" name="Default Changelist" comment="" />
+      <created>1610514192117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610514192117</updated>
+      <workItem from="1610514193300" duration="21792000" />
+      <workItem from="1610713315005" duration="1334000" />
+      <workItem from="1610726185174" duration="7934000" />
+      <workItem from="1610786474091" duration="1207000" />
+      <workItem from="1610851364087" duration="22238000" />
+      <workItem from="1610939581670" duration="9178000" />
+      <workItem from="1611024342392" duration="2684000" />
+      <workItem from="1611040952903" duration="8859000" />
+      <workItem from="1611124084968" duration="917000" />
+      <workItem from="1611128691885" duration="5032000" />
+      <workItem from="1611197822895" duration="10687000" />
+      <workItem from="1611378832956" duration="19187000" />
+      <workItem from="1611596749092" duration="14000" />
+      <workItem from="1611597806049" duration="4816000" />
+      <workItem from="1611628828754" duration="7279000" />
+      <workItem from="1611727797884" duration="1646000" />
+      <workItem from="1611764529608" duration="53000" />
+      <workItem from="1611764606838" duration="20000" />
+      <workItem from="1611848191749" duration="18021000" />
+      <workItem from="1611894928774" duration="120000" />
+      <workItem from="1611898354637" duration="3971000" />
+      <workItem from="1611938012314" duration="5040000" />
+      <workItem from="1611974189994" duration="3370000" />
+      <workItem from="1612710796028" duration="7858000" />
+      <workItem from="1612756894021" duration="2643000" />
+      <workItem from="1613035449092" duration="1896000" />
+      <workItem from="1613225754885" duration="4384000" />
+      <workItem from="1613487054029" duration="5280000" />
+      <workItem from="1613537390036" duration="7440000" />
+      <workItem from="1613675106573" duration="94000" />
+      <workItem from="1613915991517" duration="4126000" />
+      <workItem from="1614086655784" duration="4252000" />
+      <workItem from="1614143337060" duration="3839000" />
+      <workItem from="1614176751937" duration="10000" />
+      <workItem from="1614260233870" duration="19953000" />
+      <workItem from="1614358790560" duration="9655000" />
+      <workItem from="1614443044218" duration="6624000" />
+      <workItem from="1614485531688" duration="23330000" />
+      <workItem from="1614576021213" duration="3940000" />
+      <workItem from="1614586880772" duration="15003000" />
+      <workItem from="1614651267281" duration="27280000" />
+      <workItem from="1614748017578" duration="10925000" />
+      <workItem from="1615273236518" duration="1752000" />
+      <workItem from="1615301454669" duration="658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="159" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615301485680">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="440" y="159" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1615301485680" />
+    <state x="507" y="94" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614668900765">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="507" y="94" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1614668900765" />
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614669650617">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1614669650617" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1615302643089">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1615302643089" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1614702760146">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1614702760146" />
+    <state x="391" y="57" width="583" height="624" key="find.popup" timestamp="1611553880165">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="57" width="583" height="624" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1611553880165" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1610858800555">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1610858800555" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1611640432435">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1611640432435" />
+  </component>
+</project>
